@@ -1,4 +1,4 @@
-# Scraping Imdb Top 250 Page with Pythın
+# Scraping Imdb Top 250 Page with Python
 
 This code scrapes IMDB Top 250 as CSV. This is a very beginning web scraping example. I scraped IMDB Top 250 movies as CSV.
 
